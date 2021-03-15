@@ -1,0 +1,27 @@
+------------------
+Task 0: Worst case time-complexity is O(1)
+The time-complexity for this program is O(1) 
+becuase we are accessing the first and last value from the lists(calls and text)
+and this doesn't change the runtime no matter the size of the input data
+
+------------------
+Task 1: Worst case time-complexity is O(n)
+The time-complexity for this program is O(n) 
+becuase each input data (n) in the texts and call record is being accessed and that the runtime increases  linearly  with the number of input data(n) 
+
+------------------
+Task 2: Worst case time-complexity is O(n)
+The time-complexity for this program is O(n) 
+becuase the runtime increases  linearly  with the number of input data(n).
+We are accessing all data (n) in the calls record.
+
+
+------------------
+Task 3: Worst case time-complexity is O(n log n)
+The time complexity is O(n log n) becuase for every value of O(n) in the calls record (n) , a logarithm time complexity is operated
+We are performing a sorting algorithm for every input value in O(n)
+
+------------------
+Task 4:Worst case time-complexity is O(n log n)
+The time complexity is O(n log n) becuase for every value of O(n) in the texts and calls records, a logarithm time complexity is operated
+We are performing a sorting algorithm for every input value in O(n)
