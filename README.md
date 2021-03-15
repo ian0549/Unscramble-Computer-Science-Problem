@@ -1,5 +1,13 @@
 # Unscramble-Computer-Science-Problem
 
+
+## Project Description
+
+In this project, you will complete five tasks based on a fabricated set of calls and texts exchanged during September 2016. You will use Python to analyze and answer questions about the texts and calls contained in the dataset. Lastly, you will perform run time analysis of your solution and determine its efficiency
+
+
+## Files
+
 Task 0 - The script correctly prints out the information of first record of texts and last record of calls.
 
 Task 1 - The script correctly prints number of distinct telephone numbers in the dataset.
@@ -11,3 +19,4 @@ Task 3 - The script correctly prints the telephone codes called by fixed-line nu
 Task 4 - The script correctly prints the list of numbers that could be telemarketers.
 
 Run Time - Analysis.txt Student provides a file explaining their run time analysis (Worst Case Big O Notation) for each solution they produced.
+
